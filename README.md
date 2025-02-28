@@ -30,3 +30,18 @@ To run the model, follow these steps:
 4. Note: We apologize for not including the original dataset, as it is too large and restricted to private use only.
 
 ## Project Structure
+│  AbnormalAreaDetect.py
+│  Add_New_Feature.py
+│  BreakoutImagesOutput.py
+│  Breakout_List.txt
+│  LFC_List.txt
+│  MainWindow.py
+│  MainWindow.ui
+│  MainWindowShow.py
+|  README.md
+│  Show_Tem_Difference_Thermography.py
+│  Show_Thermography.py
+│  Tem_TemV_Cal.py
+│  __init__.py
+
+## Models
