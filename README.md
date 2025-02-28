@@ -26,5 +26,6 @@ Before running the project, make sure you have the following dependencies instal
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/your-repository-name.git
-   cd your-repository-name
-#usage
+   cd your-repository-nameusage
+## usage；
+this part is for usage
