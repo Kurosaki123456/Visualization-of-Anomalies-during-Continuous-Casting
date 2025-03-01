@@ -1,4 +1,4 @@
-# Machine Learning Project: [Visualization-of-Anomalies-during-Continuous-Casting]
+# [Visualization-of-Anomalies-during-Continuous-Casting]
 
 ## Overview
 This project aims to visualize anomalies in the continuous casting process by mapping temperature values to a color range on a 2D plane. It utilizes PyQt5 to create a graphical user interface (GUI) that displays both the temperature and temperature profile of the mold copper plate. The primary objective is to highlight abnormal heat transfer between molten steel and the mold copper plate during events such as sticking breakouts or longitudinal cracks, where distinct temperature profile patterns emerge.
