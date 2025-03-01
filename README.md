@@ -44,4 +44,7 @@ To run the model, follow these steps:
 │  Tem_TemV_Cal.py
 │  __init__.py
 
-## Models
+## Results
+The following is the comparison between normal condition and abnormal condition:
+![2015 07 16  07 09 54  内弧宽面Tv](https://github.com/user-attachments/assets/fb025170-f2a3-4219-9754-f2e814772174)
+
