@@ -8,7 +8,6 @@ This project aims to visualize anomalies in the continuous casting process by ma
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
-- [Models](#models)
 - [Results](#results)
 
 
