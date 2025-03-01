@@ -46,5 +46,12 @@ To run the model, follow these steps:
 
 ## Results
 The following is the comparison between normal condition and abnormal condition:
+Sticking breakout (with a distinct V-shaped distribution)
 ![2015 07 16  07 09 54  内弧宽面Tv](https://github.com/user-attachments/assets/fb025170-f2a3-4219-9754-f2e814772174)
+Non sticking breakout (norml condition)
+![2016 02 08  00 54 14  外弧宽面Tv](https://github.com/user-attachments/assets/5148b24b-76ea-4a42-af3b-2dd94f8e3524)
 
+Longitudinal crack (consisted of a upper red region and lower blued region)
+![2017 03 13  14 40 49  第一排  外弧宽面Td  4](https://github.com/user-attachments/assets/fbceab72-7bf8-4d3e-b4e2-63145cd1a057)
+Non longitudinal crack (normal condition)
+![2017 11 29  14 24 10  第二排  外弧宽面Td  24](https://github.com/user-attachments/assets/c9da76c1-df52-457e-86bd-e17f5553d96f)
