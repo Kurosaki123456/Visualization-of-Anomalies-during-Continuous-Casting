@@ -21,7 +21,7 @@ Before running the project, make sure you have the following dependencies instal
 
 
 ## Usage
-Running the Model
+### Running the Model
 To run the model, follow these steps:
 1. Download all files from this repository and ensure they are placed within the same root directory.
 2. Open a terminal, navigate to the directory containing these files, and execute the script by running: python MainWindowShow.py
