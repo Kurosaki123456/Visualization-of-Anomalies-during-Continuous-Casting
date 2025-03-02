@@ -15,9 +15,9 @@ This project aims to visualize anomalies in the continuous casting process by ma
 ### Prerequisites
 Before running the project, make sure you have the following dependencies installed:
 
-- Python 3.6
+- Python: version 3.6 or higher.
 - Pip / Conda (Python package manager)
-- Necessary Python packages including Pyqt5
+- Required Python package including Pyqt5.
 
 
 ## Usage
