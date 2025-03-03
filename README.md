@@ -30,6 +30,7 @@ To run the model, follow these steps:
 
 ## Project Structure
 The project is organized as follows:
+
 │  AbnormalAreaDetect.py
 │  Add_New_Feature.py
 │  BreakoutImagesOutput.py
