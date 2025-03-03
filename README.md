@@ -29,6 +29,7 @@ To run the model, follow these steps:
 4. Note: We apologize for not including the original dataset, as it is too large and restricted to private use only.
 
 ## Project Structure
+The project is organized as follows:
 │  AbnormalAreaDetect.py
 │  Add_New_Feature.py
 │  BreakoutImagesOutput.py
